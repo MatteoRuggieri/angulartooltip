@@ -1,0 +1,11 @@
+.custom-tooltip-style {
+  font-size: 15px;
+  background-color: rgb(201, 226, 207) !important;
+  color: rgb(56, 44, 44) !important;
+}
+
+.custom-button-style {
+  background-color: rgb(32, 13, 201);
+  color: rgb(241, 231, 231);
+}
+
